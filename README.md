@@ -1,14 +1,14 @@
 Noduino Open Onoff
 =======================================
 
-![Noduino Open Onoff Shell](Open-onoff-board-shell.jpg)
+![Noduino Open Onoff Shell](open-onoff-board-shell.jpg)
 
-[*Noduino Open Onoff (OpenOnoff V1.0)*](http://wiki.jackslab.org/Noduino_OpenOnoff/)
+[*Noduino Open Onoff (OpenOnoff V1.0)*](http://wiki.jackslab.org/Noduino_OpenOnoff)
 
 
-![Noduino Open Onoff Board](Open-onoff-board.jpg)
+![Noduino Open Onoff Board](open-onoff-board.jpg)
 
-[*Noduino Open Onoff (OpenOnoff V1.0)*](http://wiki.jackslab.org/Noduino_OpenOnoff/)
+[*Noduino Open Onoff (OpenOnoff V1.0)*](http://wiki.jackslab.org/Noduino_OpenOnoff)
 
 
 Overview
@@ -39,7 +39,7 @@ SCH
 
 ![Noduino Open Onoff sch](open-onoff-v1.0-sch.png)
 
-[*Noduino Open Onoff (OpenOnoff V0.8)*](http://wiki.jackslab.org/Noduino_OpenOnoff/)
+[*Noduino Open Onoff (OpenOnoff V1.0)*](http://wiki.jackslab.org/Noduino_OpenOnoff)
 
 
 Layout
@@ -47,7 +47,7 @@ Layout
 
 ![Noduino Open Onoff layout](open-onoff-v1.0-layout.png)
 
-[*Noduino Open Onoff (OpenOnoff V0.8)*](http://wiki.jackslab.org/Noduino_OpenOnoff/)
+[*Noduino Open Onoff (OpenOnoff V1.0)*](http://wiki.jackslab.org/Noduino_OpenOnoff)
 
 
 WiKi
